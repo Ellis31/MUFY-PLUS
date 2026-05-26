@@ -1,3 +1,4 @@
+#word variables
 word1 = 'car'
 word2 = 'exceeded'
 text1 = 'speed limit'
